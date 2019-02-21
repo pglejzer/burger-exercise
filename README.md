@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with Udemy Course [React - The Complete Guide](https://www.udemy.com/react-the-complete-guide-incl-redux/).
 
 ## Available Scripts
 
