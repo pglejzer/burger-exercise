@@ -19,6 +19,7 @@ class Modal extends Component {
           show={this.props.show}
           clickedBackdrop={this.props.modalClosed}
         />
+
         <div
           className={classes.Modal}
           style={{
