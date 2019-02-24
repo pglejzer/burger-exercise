@@ -20,7 +20,7 @@ class Modal extends Component {
       <Aux>
         <Backdrop
           show={this.props.show}
-          clickedBackdrop={this.props.modalClosed}
+          clicked={this.props.modalClosed}
         />
 
         <div
